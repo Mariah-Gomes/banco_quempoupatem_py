@@ -1,12 +1,8 @@
-# Título do projeto
-
-Antes mostra algumas informações do projeto
+# Banco Quem Poupa Tem
 
 > Status do projeto: Finalizado
 
-> Esse projeto nos foi proposto no 4ºSemestre na disciplina de Computação Móvel
-
-> Programamos inicialmente esse projeto no tinkercad juntos, depois passamos para a IDE do Arduino logo que fizemos isso subimos o arquivo do Arduino IDE no GitHub  
+> Esse projeto nos foi proposto no 1ºSemestre na disciplina de Fundamentos de Algoritmos  
 
 ### Tópicos
 
