@@ -17,6 +17,8 @@
 ## :pencil: Descrição do Projeto
 A proposta era fazer uma simulação de um banco com suas funcionalidades de depósito, débito, novo cliente, apaga cliente e entre outras opções.
 
+Os dados dos clientes são salvos em um arquivo txt e a cada alteração os dados são alterados nesse arquivo.
+
 ## :mag_right: Funcionalidade
 Aqui mostra as funcionalidades do projeto em tópicos (de numeração e com a foto)
 
