@@ -2,7 +2,9 @@
 
 > Status do projeto: Finalizado
 
-> Esse projeto nos foi proposto no 1ºSemestre na disciplina de Fundamentos de Algoritmos  
+> Esse projeto nos foi proposto no 1ºSemestre na disciplina de Fundamentos de Algoritmos
+
+> Decidi subir recentemente esse projeto no GitHub
 
 ### Tópicos
 
