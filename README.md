@@ -6,6 +6,8 @@
 
 > Decidi subir recentemente esse projeto no GitHub
 
+> Decidi refazer esse projeto recentemente e a versão antiga possui o nome: , e a versão nova: 
+
 ### Tópicos
 
 🔹[Descrição do Projeto](#pencil-descrição-do-projeto)
