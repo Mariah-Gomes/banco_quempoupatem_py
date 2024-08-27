@@ -23,6 +23,8 @@ Os dados dos clientes são salvos em um arquivo txt e a cada alteração os dado
 
 ## :mag_right: Funcionalidade
 
+> OBSERVAÇÃO: Na nova versão do Banco, que realizei recentemente, possui as mesmas funcionalidades, porém, vai até a opção 9. Porque tem uma opção nova entre apagar cliente e débito cliente que seria a opção listar cliente, ela lista todos os clientes do banco no terminal. Na versão nova, a parte de cartões e extrato também está aprimorada.
+
 1. Ao iniciar o programa mostra um menu para o usuário
 
   ![image](https://github.com/Mariah-Gomes/banco_quempoupatem_py/assets/141663285/b2d0cbb2-cffc-4c9b-a07e-e0f0ddfb3447)
