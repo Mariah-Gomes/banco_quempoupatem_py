@@ -6,7 +6,7 @@
 
 > Decidi subir recentemente esse projeto no GitHub
 
-> Decidi refazer esse projeto recentemente e a versão antiga possui o nome: PROJETO, e a versão nova: Desktop/
+> Decidi refazer esse projeto recentemente e a versão antiga possui o nome: PROJETO, e a versão nova: Desktop/Banco em Python
 
 ### Tópicos
 
