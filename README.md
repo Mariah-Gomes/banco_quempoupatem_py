@@ -6,6 +6,8 @@
 
 > Decidi subir recentemente esse projeto no GitHub
 
+> Decidi refazer esse projeto recentemente e a versão antiga possui o nome: PROJETO, e a versão nova: Desktop/Banco em Python
+
 ### Tópicos
 
 🔹[Descrição do Projeto](#pencil-descrição-do-projeto)
@@ -22,6 +24,8 @@ A proposta era fazer uma simulação de um banco com suas funcionalidades de dep
 Os dados dos clientes são salvos em um arquivo txt e a cada alteração os dados são alterados nesse arquivo.
 
 ## :mag_right: Funcionalidade
+
+> OBSERVAÇÃO: Na nova versão do Banco, que realizei recentemente, possui as mesmas funcionalidades, porém, vai até a opção 9. Porque tem uma opção nova entre apagar cliente e débito cliente que seria a opção listar cliente, ela lista todos os clientes do banco no terminal. Na versão nova, a parte de cartões e extrato também está aprimorada.
 
 1. Ao iniciar o programa mostra um menu para o usuário
 
